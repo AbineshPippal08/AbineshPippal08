@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Development**
 
-- 👨‍💻 All of my projects are available at [https://t.ly/AbineshPortfolio](https://t.ly/AbineshPortfolio)
+- 👨‍💻 All of my projects are available at [https://t.ly/AbineshPortfolio]([https://t.ly/AbineshPortfolio](https://abineshpippalportfolio.netlify.app))
 
 - 📫 How to reach me **abineshpippal08@gmail.com**
 
